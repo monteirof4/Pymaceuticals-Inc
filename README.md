@@ -754,7 +754,7 @@ plt.show()
 ```
 
 
-![png]('Output/Tumor Response to Treatment.png')
+![png](Output/Tumor_Response_to_Treatment.png)
 
 
 ## Metastatic Response to Treatment
@@ -1324,7 +1324,7 @@ plt.show()
 ```
 
 
-![png]('Output/Metastatic Spread During Treatment.png')
+![png](Output/Metastatic_Spread_During_Treatment.png)
 
 
 ## Survival Rates
@@ -1633,7 +1633,7 @@ plt.show()
 ```
 
 
-![png]('Output/Survival During Treatment.png')
+![png](Output/Survival_During_Treatment.png)
 
 
 ## Summary Bar Graph
@@ -1723,7 +1723,7 @@ fig.show()
 ```
 
 
-![png]('Output/Tumor Change Over 45 Day Treatment.png')
+![png](Output/Tumor_Change_Over_45_Day_Treatment.png)
 
 
 
